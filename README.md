@@ -1,6 +1,10 @@
-# React-Sign-In
-A React Sign-In Page using Formik and YUP Validation
+# iMeet Technology Mathura Project Guidance
 
+Welcome to the iMeet Technology Mathura project! This README provides guidance and instructions for setting up and working on the project.
+
+## Project Description
+
+The iMeet Technology Mathura project is a web application aimed at providing a platform for online meetings and collaboration. The project utilizes various technologies and libraries to create a seamless and user-friendly experience.
 
 ## Technologies Used
 
@@ -53,4 +57,10 @@ Please make sure to follow the coding conventions and best practices used in the
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Contact
+
+For any questions or inquiries, feel free to reach out to the project maintainers:
+
+- John Doe: john.doe@example.com
+- Jane Smith: jane.smith@example.com
 

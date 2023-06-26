@@ -1,0 +1,28 @@
+Tailwind CSS: Tailwind CSS is a highly customizable CSS framework that provides utility classes to quickly build user interfaces. It allows you to style your components by applying pre-defined classes. You can find the documentation and examples on the official website: Tailwind CSS.
+
+React Icons: React Icons is a library that provides a collection of popular icon packs as React components. You can easily include icons in your project by importing the desired icon component. Here's the link to the library's GitHub repository, which contains installation instructions and usage examples: React Icons.
+
+React Router DOM: React Router DOM is a library that enables routing and navigation in React applications. It allows you to define different routes and render specific components based on the current URL. You can find the documentation and examples on the official website: React Router DOM.
+
+Material-UI: Material-UI is a popular React UI component library that implements the Material Design guidelines. It provides a wide range of pre-built components that you can use to create a visually appealing user interface. Here's the link to the library's website, where you can find documentation, examples, and installation instructions: Material-UI.
+
+React Top-loading Bar: React Top-loading Bar is a library that allows you to display a loading bar at the top of your application when making API requests or performing other asynchronous operations. You can find the documentation and usage instructions on the library's GitHub repository: React Top-loading Bar.
+
+Axios: Axios is a popular JavaScript library for making HTTP requests from the browser or Node.js. It provides an easy-to-use API for sending HTTP requests and handling responses. You can find documentation and examples on the official Axios GitHub repository: Axios.
+
+Faker.js: Faker.js is a library for generating fake data, which can be useful for testing and prototyping. It allows you to create realistic-looking mock data for various purposes. You can find documentation and usage examples on the library's GitHub repository: Faker.js.
+
+AOS (Animate On Scroll): AOS is a library that allows you to animate elements on your webpage as they come into the viewport. It provides an easy way to add scroll animations to make your website more interactive and engaging. You can find the documentation and usage examples on the library's GitHub repository: AOS.
+
+Animation CSS: Although there isn't a specific library called "Animation CSS," it's possible that you're referring to CSS animations and keyframes. CSS animations allow you to apply custom animations to elements on your webpage using CSS properties and keyframes. You can learn more about CSS animations and keyframes in the MDN Web Docs guide: CSS Animations.
+
+By combining AOS and CSS animations, you can achieve various animated effects in your React application.
+
+
+
+React Styled Components : help to build ui with custom css
+
+Remember to install the necessary packages for AOS and consult the respective documentation for implementation details and usage examples.
+
+
+

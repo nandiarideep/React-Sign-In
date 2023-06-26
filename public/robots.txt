@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin
+Disallow: /dashboard
+
+User-agent: Googlebot
+Allow: /$
+Disallow: /
+
+Sitemap: https://www.example.com/sitemap.xml
